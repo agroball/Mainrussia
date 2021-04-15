@@ -5,50 +5,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./pages/index.css">
+    <script src="./pages/script.js"></script>
     <title>ТопБро</title>
 </head>
 
 <body class="body">
-    <header class="header">
-        <img class="header__logo" src="images/HeaderLogo.svg" alt="Логотип">
-        <ul class="header__links">
-            <li class="header__link">Блогеры</li>
-            <li class="header__link">Кейсы</li>
-            <li class="header__link">exit agency</li>
-            <li class="header__link">Контакты</li>
-        </ul>
-        <ul class="header__lang_links">
-            <li class="header__lang_link">en</li>
-            <li class="header__lang_link"> / </li>
-            <li class="header__lang_link">ru</li>
-        </ul>
-    </header>
+    <div class="page">
+        <header class="header">
+            <img class="header__logo" src="images/HeaderLogo.svg" alt="Логотип">
+            <ul class="header__links">
+                <li class="header__link">Блогеры</li>
+                <li class="header__link">Кейсы</li>
+                <li class="header__link">exit agency</li>
+                <li class="header__link">Контакты</li>
+            </ul>
+            <ul class="header__lang_links">
+                <li class="header__lang_link">en</li>
+                <li class="header__lang_link"> / </li>
+                <li class="header__lang_link">ru</li>
+            </ul>
+        </header>
 
-    <main>
+        <main>
+            <section class="navigation">
+                <p class="navigation__text">Главная</p>
+                <p class="navigation__text">/</p>
+                <p class="navigation__text navigation__text_active">Блогеры</p>
+            </section>
 
-        <section class="navigation">
-            <p class="navigation__text">Главная</p>
-            <p class="navigation__text">/</p>
-            <p class="navigation__text navigation__text_active">Блогеры</p>
-        </section>
+            <section class="title">
+                <h1 class="title__header">Блогеры</h1>
+            </section>
 
+            <section class="sorts">
+                <h2 class="sort__header">Сортировать по:</h2>
+                <p class="sort__paragraph">выберете площадку<span class="sort__way"></span></p>
+                <p class="sort__paragraph">выберите направление<span class="sort__way"></span></p>
+            </section>
+            <section class="cards">
+                <div class="card">
+                    <h2 class="kyk">Максим Максимов</h2>
+                </div>
+            </section>
+            <section>
 
-
-
-        <section>
-
-        </section>
-
-        <section>
-
-        </section>
-        <section>
-
-        </section>
-        <section>
-
-        </section>
-    </main>
+            </section>
+        </main>
+    </div>
 </body>
 
 </html>

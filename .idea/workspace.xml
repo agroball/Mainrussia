@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2ffcb8-cc69-4659-ace7-77e6d7e92f3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Mainrussia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/Mainrussia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/body/body.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/body/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/body/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../how-to-learn/blocks/cards/cards.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mesto-react" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,6 +52,10 @@
       <workItem from="1616781201370" duration="640000" />
       <workItem from="1616781980081" duration="94000" />
       <workItem from="1616782077153" duration="1087000" />
+      <workItem from="1617999103615" duration="86000" />
+      <workItem from="1618167970553" duration="18000" />
+      <workItem from="1618167990715" duration="118000" />
+      <workItem from="1618312604161" duration="13000" />
     </task>
     <servers />
   </component>
