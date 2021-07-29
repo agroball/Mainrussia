@@ -140,7 +140,14 @@
 .cards {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    border: 1px solid green;
 }
+
+
+/* .template {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+} */
 
 .card {
     border: 1px solid black;
